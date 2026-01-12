@@ -4,15 +4,15 @@ body {
 }
 
 p {
-  font-weight: bolder;
-}
-
-.para.small-para {
-  font-size: 14px;
+  font-weight: 800;
 }
 
 .para {
   font-size: 22px;
+}
+
+.para.small-para {
+  font-size: 14px;
 }
 
 .confirm {
@@ -44,5 +44,5 @@ p {
 
 .child {
   font-size: 14px;
-  font-weight: bolder;
+  font-weight: 800;
 }
